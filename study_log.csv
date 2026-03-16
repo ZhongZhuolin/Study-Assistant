@@ -1,0 +1,59 @@
+timestamp,full_screenshot,cropped_screenshot,ocr_text,user_selected_answer
+2026-03-15T21:03:20,study_captures\full_20260315_210305.png,study_captures\crop_20260315_210307.png,"step 3 — Run the s
+Back in your terminal:
+
+«” Bash
+
+nuthan ctiidvw holnon nv",
+2026-03-15T21:36:42,captures\full_20260315_213620.png,captures\crop_20260315_213625.png,"235 nm
+
+\ thin reflective coating is applied to glass to increase the
+amount of infrared (IR) light that is reflected from the glass.
+[he refractive index of the coating is 1.7 and the refractive OC) 200 nm
+ndex of the glass is 1.5. What is the thinnest layer of coating
+hat will result in the constructive interference of reflected 200 nm
+nfrared light with wavelength of 800 nm?
+
+C) 118 nm
+
+OC) 133 nm
+
+L\ ane","235 nm
+
+\ thin reflective coating is applied to glass to increase the
+amount of infrared (IR) light that is reflected from the glass.
+[he refractive index of the coating is 1.7 and the refractive OC) 200 nm
+ndex of the glass is 1.5. What is the thinnest layer of coating
+hat will result in the constructive interference of reflected 200 nm
+nfrared light with wavelength of 800 nm?","{""C"": ""118 nm\n\nOC) 133 nm\n\nL\\ ane""}",A,,Model disabled
+2026-03-15T21:52:14.648895,captures\full_20260315_214951.png,captures\crop_20260315_214954.png,"235 nm
+
+A thin reflective coating is applied to glass to increase the
+amount of infrared (IR) light that is reflected from the glass.
+The refractive index of the coating is 1.7 and the refractive OC) 200 nm
+index of the glass is 1.5. What is the thinnest layer of coating
+that will result in the constructive interference of reflected 200 nm
+infrared light with wavelength of 800 nm?
+
+C) 118 nm
+
+OC) 133 nm
+
+C) | DON'T KNOW YET","235 nm
+
+A thin reflective coating is applied to glass to increase the
+amount of infrared (IR) light that is reflected from the glass.
+The refractive index of the coating is 1.7 and the refractive OC) 200 nm
+index of the glass is 1.5. What is the thinnest layer of coating
+that will result in the constructive interference of reflected 200 nm
+infrared light with wavelength of 800 nm?","{""C"": ""| DON'T KNOW YET""}",,≈118 nm,"For reflection from air (n≈1) to coating (n=1.7) there is a π phase shift, while reflection at the coating–glass interface (n=1.7 to 1.5) has no phase shift. Constructive interference of the two reflected rays then requires the round-trip phase in the film to be an odd multiple of π: 4π n t / λ0 = (2m−1)π. The thinnest film corresponds to m=1, giving t = λ0 / (4n) = 800 nm / (4×1.7) ≈ 118 nm."
+2026-03-15T22:16:08.732711,captures\full_20260315_221527.png,captures\crop_20260315_221531.png,"Question:
+A simple pendulum consists of a point mass, m, attached to the end of a massless string of length L. It is pulled out of its straight-down equilibrium position by a small angle θ and released so that it oscillates about the equilibrium position in simple harmonic motion with frequency f. What will happen to the frequency if the length of the string is doubled?
+
+Choices:
+A) The frequency will not change.
+B) The frequency will double.
+C) The frequency will decrease by a factor of √2.
+D) The frequency will increase by a factor of √2.
+
+Answer: C) The frequency will decrease by a factor of √2.",
